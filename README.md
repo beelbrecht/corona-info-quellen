@@ -30,7 +30,7 @@ Beachte auch du unbedingt folgende Verhaltensweisen:
 
 #### CovApp der Charité Berlin
 [https://covapp.charite.de](https://covapp.charite.de)  
-Diese App (über den Webbrowser nutzbar) der Charité Berlin bietet dir eine Entscheidungshilfe (mittels Fragebogen) bezüglich Arztbesuch oder Coronavirus-Test. Außerdem gibt Sie Tipps zu Verhaltensweisen zur Reduzierung des Infektionsrisikos.
+Diese App (über den Webbrowser nutzbar) der Charité Berlin bietet dir eine Entscheidungshilfe (mittels Fragebogen) bezüglich Arztbesuch oder Coronavirus-Test. Außerdem gibt sie Tipps für Verhaltensweisen zur Reduzierung des Infektionsrisikos.
 
 #### Das Coronavirus-Update mit Christian Drosten (Podcast von NDR-Info)
 [https://www.ndr.de/nachrichten/info/podcast4684.html](https://www.ndr.de/nachrichten/info/podcast4684.html)  
@@ -74,12 +74,28 @@ Eine sehr anschauliche Animation, die erklärt, wie sich "soziale Distanz" (Verm
 [https://www.zeit.de/zeit-magazin/leben/2020-03/nachbarschaftshilfe-coronavirus-infektionskette-solidaritaet-netzwerkforschung](https://www.zeit.de/zeit-magazin/leben/2020-03/nachbarschaftshilfe-coronavirus-infektionskette-solidaritaet-netzwerkforschung)  
 "Im Fall einer Epidemie ist es nicht so ratsam, einfach draufloszuhelfen." Der Netzwerkforscher Benjamin Maier des Robert Koch-Institutes erklärt, wie du am sichersten helfen kannst.
 
+#### verschiedene Artikel von Quarks.de
+[https://www.quarks.de/](https://www.quarks.de/)  
+Quarks.de bietet viele anschauliche Artikel mit Hintergrundinformationen zum Thema "Coronavirus" an.
+
 #### Die Wucht der großen Zahl (Süddeutsche Zeitung)
 [https://projekte.sueddeutsche.de/artikel/wissen/coronavirus-die-wucht-der-grossen-zahl-e575082/](https://projekte.sueddeutsche.de/artikel/wissen/coronavirus-die-wucht-der-grossen-zahl-e575082/)  
 Der Artikel erläutert sehr anschaulich, was exponentielles Wachstum im Fall einer Pandemie bedeutet. (Der Artikel erschien am 10.03.2020)
 
-## Informationen zur Bewältigung des Alltags
+## Wissenswertes für Kinder
+
+#### Das Coronavirus Kindern einfach erklärt (Youtube)
+[https://www.youtube.com/watch?v=_kU4oCmRFTw](https://www.youtube.com/watch?v=_kU4oCmRFTw)  
+Erklärvideo für Kinder.
 
 #### Virtuelles Klassenzimmer des ZDF
 [https://klassenzimmer.zdf.de](https://klassenzimmer.zdf.de)  
 Viele Videos zum "Schlauerwerden" für alle Altersklassen.
+
+#### Zuhause lernen mit Planet Wissen
+[https://www.planet-wissen.de/sendungen/planet-wissen-homeschooling-104.html](https://www.planet-wissen.de/sendungen/planet-wissen-homeschooling-104.html)  
+Interessante Sendungen und Hintergrundinfos nach Unterrichtsfächern sortiert.
+
+#### Alles für die Grundschule (planet schule)
+[https://www.planet-schule.de/sf/spezial/grundschule/index.php](https://www.planet-schule.de/sf/spezial/grundschule/index.php)  
+Viele Filme, interaktive Spiele und didaktisches Arbeitsmaterial für Grundschüler.
