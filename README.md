@@ -28,6 +28,10 @@ Beachte auch du unbedingt folgende Verhaltensweisen:
 
 ## Informationen zur aktuellen Lage
 
+#### CovApp der Charité Berlin
+[https://covapp.charite.de](https://covapp.charite.de)  
+Diese App (über den Webbrowser nutzbar) der Charité Berlin bietet dir eine Entscheidungshilfe (mittels Fragebogen) bezüglich Arztbesuch oder Coronavirus-Test. Außerdem gibt Sie Tipps zu Verhaltensweisen zur Reduzierung des Infektionsrisikos.
+
 #### Das Coronavirus-Update mit Christian Drosten (Podcast von NDR-Info)
 [https://www.ndr.de/nachrichten/info/podcast4684.html](https://www.ndr.de/nachrichten/info/podcast4684.html)  
 Jeden Werktag erscheint Mittags ein halbstündiger Podcast mit dem Wissenschaftler Christian Drosten (Leiter der Virologie in der Berliner Charité) mit fundierten wissenschaftlichen Hintergrundinformationen zur aktuellen Lage.
@@ -38,19 +42,19 @@ Die Grafiken und Diagramme in dem Artikel werden laufend aktualisiert (z.T. stü
 
 #### Coronavirus Echtzeit-Karte (Berliner Morgenpost)
 [https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)  
-Eine übersichtliche interaktive Karte mit Fallzahlen, die von der Redaktion der Berliner Morgenpost laufend aktualisiert wird. Die Zahlen sind in der Regel aktueller, als die Zahlen vom Robert Koch Institut.
+Eine übersichtliche interaktive Karte mit Fallzahlen, die von der Redaktion der Berliner Morgenpost laufend aktualisiert wird. Die Zahlen sind in der Regel aktueller, als die Zahlen vom Robert Koch-Institut.
 
-#### Coronavirus Dashboard (Robert Koch Institut)
+#### Coronavirus Dashboard (Robert Koch-Institut)
 [https://corona.rki.de/](https://corona.rki.de/)  
-Offizielle Übersichtskarte vom Robert Koch Institut mit Fallzahlen.
+Offizielle Übersichtskarte vom Robert Koch-Institut mit Fallzahlen.
 
 #### Tagesaktuelle Infos des Bundesgesundheitsministeriums
 [https://www.bundesgesundheitsministerium.de/coronavirus.html](https://www.bundesgesundheitsministerium.de/coronavirus.html)  
 Offizielle und aktuelle Informationen für die Bevölkerung vom Bundesgesundheitsministerium.
 
-#### Tagesaktuelle Infos für Fachöffentlichkeit des Robert Koch Institutes
+#### Tagesaktuelle Infos für Fachöffentlichkeit des Robert Koch-Institutes
 [https://www.rki.de/covid-19](https://www.rki.de/covid-19)  
-Aktuelle Informationen vom Robert Koch Institut für die Fachöffentlichkeit. Die Infos sind also zum Teil etwas spezieller und betreffen nicht jeden.
+Aktuelle Informationen vom Robert Koch-Institut für die Fachöffentlichkeit. Die Infos sind also zum Teil etwas spezieller und betreffen nicht jeden.
 
 ## Hintergrundinformationen
 
@@ -68,7 +72,7 @@ Eine sehr anschauliche Animation, die erklärt, wie sich "soziale Distanz" (Verm
 
 #### Sinnhaftigkeit von Nachbarschaftshilfe (Zeit Magazin)
 [https://www.zeit.de/zeit-magazin/leben/2020-03/nachbarschaftshilfe-coronavirus-infektionskette-solidaritaet-netzwerkforschung](https://www.zeit.de/zeit-magazin/leben/2020-03/nachbarschaftshilfe-coronavirus-infektionskette-solidaritaet-netzwerkforschung)  
-"Im Fall einer Epidemie ist es nicht so ratsam, einfach draufloszuhelfen." Der Netzwerkforscher Benjamin Maier des Robert Koch Institutes erklärt, wie du am sichersten helfen kannst.
+"Im Fall einer Epidemie ist es nicht so ratsam, einfach draufloszuhelfen." Der Netzwerkforscher Benjamin Maier des Robert Koch-Institutes erklärt, wie du am sichersten helfen kannst.
 
 #### Die Wucht der großen Zahl (Süddeutsche Zeitung)
 [https://projekte.sueddeutsche.de/artikel/wissen/coronavirus-die-wucht-der-grossen-zahl-e575082/](https://projekte.sueddeutsche.de/artikel/wissen/coronavirus-die-wucht-der-grossen-zahl-e575082/)  
