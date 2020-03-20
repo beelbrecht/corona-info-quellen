@@ -1,12 +1,13 @@
-## Links zu aktuellen und sachlichen Informationen über das "Coronavirus"
+## Links zu aktuellen & sachlichen "Corona" Informationen
 
-Transparente, sachliche Informationen und bestmögliche Aufgeklärtheit ist für uns aktuell wichtiger denn je. Mit dieser Seite möchte ich meinen Beitrag dazu leisten und relevante Informationsquellen sammeln. Für Anregungen und Ergänzungen an corona@beelbrecht.de bin ich dankbar! 
+Transparente, sachliche und aktuelle Informationen, sowie bestmögliche Aufgeklärtheit ist für uns aktuell wichtiger denn je. Mit dieser Seite möchte ich meinen Beitrag dazu leisten und relevante Informationsquellen sammeln. Für Anregungen und Ergänzungen per Mail an corona@beelbrecht.de bin ich dankbar! 
 
 Diese Seite wird laufend aktualisiert. (zuletzt aktualisiert: *20. März 2020, 14:00 Uhr*)
 
 ### Vorwort
 
-Auch DU kannst und musst dazu beitragen, dass die aktuelle Pandemie ([Wikipedia-Link](https://de.wikipedia.org/wiki/Pandemie)) durch das "Coronavirus" für uns alle nicht zur Katastrophe mit zu vielen Toten wird.  
+Auch DU kannst und musst dazu beitragen, dass die aktuelle Pandemie ([Wikipedia-Link](https://de.wikipedia.org/wiki/Pandemie)) durch das "Coronavirus" für uns alle nicht zur Katastrophe mit zu vielen Toten wird. Sei nicht unsolidarisch und egoistisch!
+
 Beachte auch du unbedingt folgende Verhaltensweisen:
 
 - **Anweisungen befolgen**: Befolge immer die Anweisungen und Empfehlungen der offiziellen Stellen (Regierung, Behörden, Gesundheitsämter, Polizei, Ärzte, etc.).
@@ -34,11 +35,43 @@ Jeden Werktag erscheint Mittags ein halbstündiger Podcast mit dem Wissenschaftl
 [https://www.sueddeutsche.de/wissen/coronavirus-zahlen-daten-1.4844448](https://www.sueddeutsche.de/wissen/coronavirus-zahlen-daten-1.4844448)  
 Die Grafiken und Diagramme in dem Artikel werden laufend aktualisiert (z.T. stündlich). Besonders anschaulich ist die Tabelle mit der "Verdopplungszeit" der bestätigten Fälle.
 
+#### Coronavirus Echtzeit-Karte (Berliner Morgenpost)
+[https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)  
+//TODO: Beschreibung hinzufügen
+
+#### Coronavirus Dashboard (Robert Koch Institut)
+[https://corona.rki.de/](https://corona.rki.de/)  
+//TODO: Beschreibung hinzufügen
+
+#### Tagesaktuelle Infos des Bundesgesundheitsministeriums
+[https://www.bundesgesundheitsministerium.de/coronavirus.html](https://www.bundesgesundheitsministerium.de/coronavirus.html)  
+//TODO: Beschreibung hinzufügen
+
+#### Tagesaktuelle Infos für Fachöffentlichkeit des Robert Koch Institutes
+[https://www.rki.de/covid-19](https://www.rki.de/covid-19)  
+//TODO: Beschreibung hinzufügen
+
 ### Hintergrundinformationen
 
-#### Seite ist effektiver als Desinfektionsmittel
+#### Seife ist effektiver als Desinfektionsmittel (Spektrum Scilog)
 [https://scilogs.spektrum.de/marlenes-medizinkiste/seife-oder-desinfektionsmittel/](https://scilogs.spektrum.de/marlenes-medizinkiste/seife-oder-desinfektionsmittel/)  
 Ein Artikel im Wissenschaftsblog von Spektrum.de erläutert sehr anschaulich, warum gründliches Händewaschen mit Seife besser ist, als Desinfektionsmittel. Auch Seife zerstört das Coronavirus. Sehr sehenswert ist auch das Video auf der Seite.
+
+#### effektiver Infektionsschutz (Bundeszentrale für gesundheitliche Aufklärung)
+[https://www.infektionsschutz.de/coronavirus/](https://www.infektionsschutz.de/coronavirus/)  
+//TODO: Beschreibung hinzufügen
+
+#### Coronavirus Simulation (Katapult Magazin)
+[https://corona.katapult-magazin.de/](https://corona.katapult-magazin.de/)  
+//TODO: Beschreibung hinzufügen
+
+#### Sinnhaftigkeit von Nachbarschaftshilfe (Zeit Magazin)
+[https://www.zeit.de/zeit-magazin/leben/2020-03/nachbarschaftshilfe-coronavirus-infektionskette-solidaritaet-netzwerkforschung](https://www.zeit.de/zeit-magazin/leben/2020-03/nachbarschaftshilfe-coronavirus-infektionskette-solidaritaet-netzwerkforschung)  
+//TODO: Beschreibung hinzufügen
+
+#### Die Wucht der großen Zahl (Süddeutsche Zeitung)
+[https://projekte.sueddeutsche.de/artikel/wissen/coronavirus-die-wucht-der-grossen-zahl-e575082/](https://projekte.sueddeutsche.de/artikel/wissen/coronavirus-die-wucht-der-grossen-zahl-e575082/)  
+//TODO: Beschreibung hinzufügen (Artikel vom 10.03.2020)
 
 ### Informationen zur Bewältigung des Alltags
 
