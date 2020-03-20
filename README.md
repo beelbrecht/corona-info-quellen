@@ -2,8 +2,7 @@
 
 Transparente, sachliche Informationen und bestmögliche Aufgeklärtheit ist für uns aktuell wichtiger denn je. Mit dieser Seite möchte ich meinen Beitrag dazu leisten und relevante Informationsquellen sammeln. Für Anregungen und Ergänzungen an corona@beelbrecht.de bin ich dankbar! 
 
-Diese Seite wird laufend aktualisiert.  
-Zuletzt aktualisiert: *20. März 2020, 14:00 Uhr*
+Diese Seite wird laufend aktualisiert. (zuletzt aktualisiert: *20. März 2020, 14:00 Uhr*)
 
 ### Vorwort
 
@@ -25,24 +24,24 @@ Beachte auch du unbedingt folgende Verhaltensweisen:
 
 **COVID-19**: Bezeichnung der Krankheit, die durch das Coronavirus "SARS-CoV-2" ausgelöst wird. ([https://de.wikipedia.org/wiki/COVID-19](https://de.wikipedia.org/wiki/COVID-19))
 
-### Zur aktuellen Lage
+### Informationen zur aktuellen Lage
 
 #### Das Coronavirus-Update mit Christian Drosten (Podcast von NDR-Info)
-[https://www.ndr.de/nachrichten/info/podcast4684.html](https://www.ndr.de/nachrichten/info/podcast4684.html)
+[https://www.ndr.de/nachrichten/info/podcast4684.html](https://www.ndr.de/nachrichten/info/podcast4684.html)  
 Jeden Werktag erscheint Mittags ein halbstündiger Podcast mit dem Wissenschaftler Christian Drosten (Leiter der Virologie in der Berliner Charité) mit fundierten wissenschaftlichen Hintergrundinformationen zur aktuellen Lage.
 
 #### Alle Daten zur Pandemie (Süddeutsche Zeitung)
-[https://www.sueddeutsche.de/wissen/coronavirus-zahlen-daten-1.4844448](https://www.sueddeutsche.de/wissen/coronavirus-zahlen-daten-1.4844448)
+[https://www.sueddeutsche.de/wissen/coronavirus-zahlen-daten-1.4844448](https://www.sueddeutsche.de/wissen/coronavirus-zahlen-daten-1.4844448)  
 Die Grafiken und Diagramme in dem Artikel werden laufend aktualisiert (z.T. stündlich). Besonders anschaulich ist die Tabelle mit der "Verdopplungszeit" der bestätigten Fälle.
 
 ### Hintergrundinformationen
 
 #### Seite ist effektiver als Desinfektionsmittel
-[https://scilogs.spektrum.de/marlenes-medizinkiste/seife-oder-desinfektionsmittel/](https://scilogs.spektrum.de/marlenes-medizinkiste/seife-oder-desinfektionsmittel/)
+[https://scilogs.spektrum.de/marlenes-medizinkiste/seife-oder-desinfektionsmittel/](https://scilogs.spektrum.de/marlenes-medizinkiste/seife-oder-desinfektionsmittel/)  
 Ein Artikel im Wissenschaftsblog von Spektrum.de erläutert sehr anschaulich, warum gründliches Händewaschen mit Seife besser ist, als Desinfektionsmittel. Auch Seife zerstört das Coronavirus. Sehr sehenswert ist auch das Video auf der Seite.
 
-### Zur Bewältigung des Alltags
+### Informationen zur Bewältigung des Alltags
 
 #### Virtuelles Klassenzimmer des ZDF
-[https://klassenzimmer.zdf.de](https://klassenzimmer.zdf.de)
+[https://klassenzimmer.zdf.de](https://klassenzimmer.zdf.de)  
 Viele Videos zum "Schlauerwerden" für alle Altersklassen.
