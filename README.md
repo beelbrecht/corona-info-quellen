@@ -1,6 +1,7 @@
 # Links zu aktuellen & sachlichen "Corona"-Informationen
 
-Transparente, sachliche und aktuelle Informationen, sowie bestmögliche Aufgeklärtheit ist für uns alle aktuell wichtiger denn je. Mit dieser Seite möchte ich meinen Beitrag dazu leisten und relevante Informationsquellen sammeln. Für Anregungen und Ergänzungen per Mail an corona@beelbrecht.de bin ich dankbar! - Benjamin Albrecht
+Transparente, sachliche und aktuelle Informationen, sowie bestmögliche Aufgeklärtheit ist für uns alle aktuell wichtiger denn je. Mit dieser Seite möchte ich meinen Beitrag dazu leisten und relevante Informationsquellen sammeln. Für Anregungen und Ergänzungen per Mail bin ich dankbar!  
+*Benjamin Albrecht (corona@beelbrecht.de)*
 
 Diese Seite wird laufend aktualisiert. (zuletzt aktualisiert: *20. März 2020, 14:00 Uhr*)
 
@@ -37,19 +38,19 @@ Die Grafiken und Diagramme in dem Artikel werden laufend aktualisiert (z.T. stü
 
 #### Coronavirus Echtzeit-Karte (Berliner Morgenpost)
 [https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)  
-//TODO: Beschreibung hinzufügen
+Eine übersichtliche interaktive Karte mit Fallzahlen, die von der Redaktion der Berliner Morgenpost laufend aktualisiert wird. Die Zahlen sind in der Regel aktueller, als die Zahlen vom Robert Koch Institut.
 
 #### Coronavirus Dashboard (Robert Koch Institut)
 [https://corona.rki.de/](https://corona.rki.de/)  
-//TODO: Beschreibung hinzufügen
+Offizielle Übersichtskarte vom Robert Koch Institut mit Fallzahlen.
 
 #### Tagesaktuelle Infos des Bundesgesundheitsministeriums
 [https://www.bundesgesundheitsministerium.de/coronavirus.html](https://www.bundesgesundheitsministerium.de/coronavirus.html)  
-//TODO: Beschreibung hinzufügen
+Offizielle und aktuelle Informationen für die Bevölkerung vom Bundesgesundheitsministerium.
 
 #### Tagesaktuelle Infos für Fachöffentlichkeit des Robert Koch Institutes
 [https://www.rki.de/covid-19](https://www.rki.de/covid-19)  
-//TODO: Beschreibung hinzufügen
+Aktuelle Informationen vom Robert Koch Institut für die Fachöffentlichkeit. Die Infos sind also zum Teil etwas spezieller und betreffen nicht jeden.
 
 ## Hintergrundinformationen
 
@@ -59,19 +60,19 @@ Ein Artikel im Wissenschaftsblog von Spektrum.de erläutert sehr anschaulich, wa
 
 #### effektiver Infektionsschutz (Bundeszentrale für gesundheitliche Aufklärung)
 [https://www.infektionsschutz.de/coronavirus/](https://www.infektionsschutz.de/coronavirus/)  
-//TODO: Beschreibung hinzufügen
+Die Bundeszentrale für gesundheitliche Aufklärung erläutert effektive Maßnahmen, um sich vor einer Infektion mit dem Coronavirus zu schützen.
 
 #### Coronavirus Simulation (Katapult Magazin)
 [https://corona.katapult-magazin.de/](https://corona.katapult-magazin.de/)  
-//TODO: Beschreibung hinzufügen
+Eine sehr anschauliche Animation, die erklärt, wie sich "soziale Distanz" (Vermeiden von persönlichen Kontakten) positiv auf die aktuelle Pandemie auswirkt.
 
 #### Sinnhaftigkeit von Nachbarschaftshilfe (Zeit Magazin)
 [https://www.zeit.de/zeit-magazin/leben/2020-03/nachbarschaftshilfe-coronavirus-infektionskette-solidaritaet-netzwerkforschung](https://www.zeit.de/zeit-magazin/leben/2020-03/nachbarschaftshilfe-coronavirus-infektionskette-solidaritaet-netzwerkforschung)  
-//TODO: Beschreibung hinzufügen
+"Im Fall einer Epidemie ist es nicht so ratsam, einfach draufloszuhelfen." Der Netzwerkforscher Benjamin Maier des Robert Koch Institutes erklärt, wie du am sichersten helfen kannst.
 
 #### Die Wucht der großen Zahl (Süddeutsche Zeitung)
 [https://projekte.sueddeutsche.de/artikel/wissen/coronavirus-die-wucht-der-grossen-zahl-e575082/](https://projekte.sueddeutsche.de/artikel/wissen/coronavirus-die-wucht-der-grossen-zahl-e575082/)  
-//TODO: Beschreibung hinzufügen (Artikel vom 10.03.2020)
+Der Artikel erläutert sehr anschaulich, was exponentielles Wachstum im Fall einer Pandemie bedeutet. (Der Artikel erschien am 10.03.2020)
 
 ## Informationen zur Bewältigung des Alltags
 
