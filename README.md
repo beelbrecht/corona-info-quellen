@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Links zu aktuellen und sachlichen Informationen über das "Coronavirus"
 
-You can use the [editor on GitHub](https://github.com/beelbrecht/corona-info-quellen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Transparente, sachliche Informationen und bestmögliche Aufgeklärtheit ist für uns aktuell wichtiger denn je. Mit dieser Seite möchte ich meinen Beitrag dazu leisten und relevante Informationsquellen sammeln. Für Anregungen und Ergänzungen an corona@beelbrecht.de bin ich dankbar! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Diese Seite wird laufend aktualisiert.  
+Zuletzt aktualisiert: *20. März 2020, 14:00 Uhr*
 
-### Markdown
+### Vorwort
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Auch DU kannst und musst dazu beitragen, dass die aktuelle Pandemie ([Wikipedia-Link](https://de.wikipedia.org/wiki/Pandemie)) durch das "Coronavirus" für uns alle nicht zur Katastrophe mit zu vielen Toten wird.  
+Beachte auch du unbedingt folgende Verhaltensweisen:
 
-```markdown
-Syntax highlighted code block
+- **Anweisungen befolgen**: Befolge immer die Anweisungen und Empfehlungen der offiziellen Stellen (Regierung, Behörden, Gesundheitsämter, Polizei, Ärzte, etc.).
+- **Zu Hause bleiben**: Bleib zu Hause und vermeide JEDEN Kontakt mit anderen Menschen. Dadurch stecken sich weniger Menschen gleichzeitig mit dem "Coronavirus" an und die Krankenhäuser haben mehr Möglichkeiten, die schwerkranken Menschen zu versorgen.
+- **Mindestabstand einhalten**: Wenn du doch ausnahmsweise anderen Menschen begegnest, halte mindestens 1,5 - 2 Meter Abstand.
+- **Händewaschen**: Wasche dir oft und gründlich die Hände mit Seife. Die Seife zerstört die SARS-CoV-2 Viren und kann sogar effektiver sein, als Desinfektionsmittel (Infos dazu weiter unten).
+- **Keine Hamsterkäufe**: Tätige keine Hamsterkäufe. Laut offiziellen Stellen ist die Versorgung der Supermärkte gesichert. Hamsterkäufe und dadurch bedingte leere Regale verbreiten unnötig Angst und Sorge.
+- **Verbreite keine Fake News**: Überprüfe bitte unbedingt die Quelle und Seriösität von Nachrichten, bevor du diese weiterleitest. Falschmeldungen verunsichern deine Mitmenschen und helfen keinem.
 
-# Header 1
-## Header 2
-### Header 3
+### Begriffserklärung
 
-- Bulleted
-- List
+**Coronavirus**: DAS Coronavirus gibt es nicht. Coronaviren sind eine ganze Gruppe von Viren. Das aktuelle Virus gehört zu dieser Gruppe von Coronaviren. ([https://de.wikipedia.org/wiki/Coronaviridae](https://de.wikipedia.org/wiki/Coronaviridae))
 
-1. Numbered
-2. List
+**SARS-CoV-2**: Bezeichnung des aktuellen Virus. ([https://de.wikipedia.org/wiki/SARS-CoV-2](https://de.wikipedia.org/wiki/SARS-CoV-2))
 
-**Bold** and _Italic_ and `Code` text
+**COVID-19**: Bezeichnung der Krankheit, die durch das Coronavirus "SARS-CoV-2" ausgelöst wird. ([https://de.wikipedia.org/wiki/COVID-19](https://de.wikipedia.org/wiki/COVID-19))
 
-[Link](url) and ![Image](src)
-```
+### Zur aktuellen Lage
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Das Coronavirus-Update mit Christian Drosten (Podcast von NDR-Info)
+[https://www.ndr.de/nachrichten/info/podcast4684.html](https://www.ndr.de/nachrichten/info/podcast4684.html)
+Jeden Werktag erscheint Mittags ein halbstündiger Podcast mit dem Wissenschaftler Christian Drosten (Leiter der Virologie in der Berliner Charité) mit fundierten wissenschaftlichen Hintergrundinformationen zur aktuellen Lage.
 
-### Jekyll Themes
+#### Alle Daten zur Pandemie (Süddeutsche Zeitung)
+[https://www.sueddeutsche.de/wissen/coronavirus-zahlen-daten-1.4844448](https://www.sueddeutsche.de/wissen/coronavirus-zahlen-daten-1.4844448)
+Die Grafiken und Diagramme in dem Artikel werden laufend aktualisiert (z.T. stündlich). Besonders anschaulich ist die Tabelle mit der "Verdopplungszeit" der bestätigten Fälle.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beelbrecht/corona-info-quellen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Hintergrundinformationen
 
-### Support or Contact
+#### Seite ist effektiver als Desinfektionsmittel
+[https://scilogs.spektrum.de/marlenes-medizinkiste/seife-oder-desinfektionsmittel/](https://scilogs.spektrum.de/marlenes-medizinkiste/seife-oder-desinfektionsmittel/)
+Ein Artikel im Wissenschaftsblog von Spektrum.de erläutert sehr anschaulich, warum gründliches Händewaschen mit Seife besser ist, als Desinfektionsmittel. Auch Seife zerstört das Coronavirus. Sehr sehenswert ist auch das Video auf der Seite.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Zur Bewältigung des Alltags
+
+#### Virtuelles Klassenzimmer des ZDF
+[https://klassenzimmer.zdf.de](https://klassenzimmer.zdf.de)
+Viele Videos zum "Schlauerwerden" für alle Altersklassen.
