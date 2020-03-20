@@ -1,23 +1,23 @@
-## Links zu aktuellen & sachlichen "Corona" Informationen
+# Links zu aktuellen & sachlichen "Corona"-Informationen
 
-Transparente, sachliche und aktuelle Informationen, sowie bestmögliche Aufgeklärtheit ist für uns aktuell wichtiger denn je. Mit dieser Seite möchte ich meinen Beitrag dazu leisten und relevante Informationsquellen sammeln. Für Anregungen und Ergänzungen per Mail an corona@beelbrecht.de bin ich dankbar! 
+Transparente, sachliche und aktuelle Informationen, sowie bestmögliche Aufgeklärtheit ist für uns alle aktuell wichtiger denn je. Mit dieser Seite möchte ich meinen Beitrag dazu leisten und relevante Informationsquellen sammeln. Für Anregungen und Ergänzungen per Mail an corona@beelbrecht.de bin ich dankbar! - Benjamin Albrecht
 
 Diese Seite wird laufend aktualisiert. (zuletzt aktualisiert: *20. März 2020, 14:00 Uhr*)
 
-### Vorwort
+## Vorwort
 
-Auch DU kannst und musst dazu beitragen, dass die aktuelle Pandemie ([Wikipedia-Link](https://de.wikipedia.org/wiki/Pandemie)) durch das "Coronavirus" für uns alle nicht zur Katastrophe mit zu vielen Toten wird. Sei nicht unsolidarisch und egoistisch!
+Auch DU kannst und musst dazu beitragen, dass die aktuelle Pandemie ([Wikipedia-Link](https://de.wikipedia.org/wiki/Pandemie)) durch das "Coronavirus" für uns alle nicht zur Katastrophe mit vielen Toten wird. Sei nicht unsolidarisch und egoistisch!
 
 Beachte auch du unbedingt folgende Verhaltensweisen:
 
-- **Anweisungen befolgen**: Befolge immer die Anweisungen und Empfehlungen der offiziellen Stellen (Regierung, Behörden, Gesundheitsämter, Polizei, Ärzte, etc.).
+- **Anweisungen befolgen**: Befolge die Anweisungen und Empfehlungen der offiziellen Stellen (Regierung, Behörden, Gesundheitsämter, Polizei, Ärzte, etc.).
 - **Zu Hause bleiben**: Bleib zu Hause und vermeide JEDEN Kontakt mit anderen Menschen. Dadurch stecken sich weniger Menschen gleichzeitig mit dem "Coronavirus" an und die Krankenhäuser haben mehr Möglichkeiten, die schwerkranken Menschen zu versorgen.
 - **Mindestabstand einhalten**: Wenn du doch ausnahmsweise anderen Menschen begegnest, halte mindestens 1,5 - 2 Meter Abstand.
 - **Händewaschen**: Wasche dir oft und gründlich die Hände mit Seife. Die Seife zerstört die SARS-CoV-2 Viren und kann sogar effektiver sein, als Desinfektionsmittel (Infos dazu weiter unten).
-- **Keine Hamsterkäufe**: Tätige keine Hamsterkäufe. Laut offiziellen Stellen ist die Versorgung der Supermärkte gesichert. Hamsterkäufe und dadurch bedingte leere Regale verbreiten unnötig Angst und Sorge.
-- **Verbreite keine Fake News**: Überprüfe bitte unbedingt die Quelle und Seriösität von Nachrichten, bevor du diese weiterleitest. Falschmeldungen verunsichern deine Mitmenschen und helfen keinem.
+- **Keine Hamsterkäufe**: Tätige keine Hamsterkäufe. Laut offiziellen Stellen (z.B. Bundesregierung) ist die Versorgung der Supermärkte gesichert. Hamsterkäufe und dadurch bedingte leere Regale verbreiten unnötig Angst und Sorge.
+- **Keine Fake News verbreiten**: Überprüfe bitte unbedingt die Quelle und Seriösität von Nachrichten, Texten und Videos, bevor du diese weiterleitest. Falschmeldungen verunsichern deine Mitmenschen und helfen keinem.
 
-### Begriffserklärung
+## Begriffserklärung
 
 **Coronavirus**: DAS Coronavirus gibt es nicht. Coronaviren sind eine ganze Gruppe von Viren. Das aktuelle Virus gehört zu dieser Gruppe von Coronaviren. ([https://de.wikipedia.org/wiki/Coronaviridae](https://de.wikipedia.org/wiki/Coronaviridae))
 
@@ -25,7 +25,7 @@ Beachte auch du unbedingt folgende Verhaltensweisen:
 
 **COVID-19**: Bezeichnung der Krankheit, die durch das Coronavirus "SARS-CoV-2" ausgelöst wird. ([https://de.wikipedia.org/wiki/COVID-19](https://de.wikipedia.org/wiki/COVID-19))
 
-### Informationen zur aktuellen Lage
+## Informationen zur aktuellen Lage
 
 #### Das Coronavirus-Update mit Christian Drosten (Podcast von NDR-Info)
 [https://www.ndr.de/nachrichten/info/podcast4684.html](https://www.ndr.de/nachrichten/info/podcast4684.html)  
@@ -51,7 +51,7 @@ Die Grafiken und Diagramme in dem Artikel werden laufend aktualisiert (z.T. stü
 [https://www.rki.de/covid-19](https://www.rki.de/covid-19)  
 //TODO: Beschreibung hinzufügen
 
-### Hintergrundinformationen
+## Hintergrundinformationen
 
 #### Seife ist effektiver als Desinfektionsmittel (Spektrum Scilog)
 [https://scilogs.spektrum.de/marlenes-medizinkiste/seife-oder-desinfektionsmittel/](https://scilogs.spektrum.de/marlenes-medizinkiste/seife-oder-desinfektionsmittel/)  
@@ -73,7 +73,7 @@ Ein Artikel im Wissenschaftsblog von Spektrum.de erläutert sehr anschaulich, wa
 [https://projekte.sueddeutsche.de/artikel/wissen/coronavirus-die-wucht-der-grossen-zahl-e575082/](https://projekte.sueddeutsche.de/artikel/wissen/coronavirus-die-wucht-der-grossen-zahl-e575082/)  
 //TODO: Beschreibung hinzufügen (Artikel vom 10.03.2020)
 
-### Informationen zur Bewältigung des Alltags
+## Informationen zur Bewältigung des Alltags
 
 #### Virtuelles Klassenzimmer des ZDF
 [https://klassenzimmer.zdf.de](https://klassenzimmer.zdf.de)  
