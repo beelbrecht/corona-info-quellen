@@ -6,6 +6,13 @@ Transparente, sachliche und aktuelle Informationen, sowie bestmögliche Aufgekl�
 Diese Seite wird laufend aktualisiert.  
 (zuletzt aktualisiert: *23. März 2020, 11:00 Uhr, [Änderungshistorie](https://github.com/beelbrecht/corona-info-quellen/commits/master)*)
 
+#### Inhalt
+
+- [Begriffserklärung](#begriffserklärung)
+- [Informationen zur aktuellen Lage](#informationen-zur-aktuellen-lage)
+- [Hintergrundinformationen](#hintergrundinformationen)
+- [Wissenswertes für Kinder](#wissenswertes-für-kinder)
+
 ## Vorwort
 
 Auch DU kannst und musst dazu beitragen, dass die aktuelle Pandemie ([Wikipedia-Link](https://de.wikipedia.org/wiki/Pandemie)) durch das "Coronavirus" für uns alle nicht zur Katastrophe mit vielen Toten wird. Sei nicht unsolidarisch und egoistisch!
