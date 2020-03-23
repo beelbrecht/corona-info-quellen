@@ -4,7 +4,7 @@ Transparente, sachliche und aktuelle Informationen, sowie bestmögliche Aufgekl�
 *Benjamin Albrecht (corona@beelbrecht.de)*
 
 Diese Seite wird laufend aktualisiert.  
-(zuletzt aktualisiert: *23. März 2020, 10:00 Uhr, [Änderungshistorie](https://github.com/beelbrecht/corona-info-quellen/commits/master)*)
+(zuletzt aktualisiert: *23. März 2020, 11:00 Uhr, [Änderungshistorie](https://github.com/beelbrecht/corona-info-quellen/commits/master)*)
 
 ## Vorwort
 
@@ -86,6 +86,10 @@ Die Bundeszentrale für gesundheitliche Aufklärung erläutert effektive Maßnah
 #### Warum nur Abstand halten hilft (Bayerischer Rundfunk)
 [https://web.br.de/interaktiv/corona-simulation/](https://web.br.de/interaktiv/corona-simulation/)  
 Eine sehr anschauliche Animation, die erklärt, wie sich "soziale Distanz" (Vermeiden von persönlichen Kontakten) positiv auf die aktuelle Pandemie auswirkt.
+
+#### Der lange Weg der Fallzahlen zum Robert Koch-Institut (heise online)
+[https://www.heise.de/newsticker/meldung/Coronavirus-Fallzahlen-und-der-Amtsschimmel-4683120.html](https://www.heise.de/newsticker/meldung/Coronavirus-Fallzahlen-und-der-Amtsschimmel-4683120.html)  
+Eine Erläuterung, wie die Fallzahlen zum Robert Koch-Institut übermittelt werden und warum dabei große Verzögerungen, z.T. 2-3 Tage, entstehen können. Insgesamt und gerade am Wochenende sind daher die gemeldeten Fallzahlen mit Vorsicht zu betrachten. (Der Artikel erschien am 16.03.2020)
 
 #### Sinnhaftigkeit von Nachbarschaftshilfe (Zeit Magazin)
 [https://www.zeit.de/zeit-magazin/leben/2020-03/nachbarschaftshilfe-coronavirus-infektionskette-solidaritaet-netzwerkforschung](https://www.zeit.de/zeit-magazin/leben/2020-03/nachbarschaftshilfe-coronavirus-infektionskette-solidaritaet-netzwerkforschung)  
