@@ -3,7 +3,8 @@
 Transparente, sachliche und aktuelle Informationen, sowie bestmögliche Aufgeklärtheit ist für uns alle aktuell wichtiger denn je. Mit dieser Seite möchte ich meinen Beitrag dazu leisten und relevante Informationsquellen sammeln. Für Anregungen und Ergänzungen per Mail bin ich dankbar!  
 *Benjamin Albrecht (corona@beelbrecht.de)*
 
-Diese Seite wird laufend aktualisiert. (zuletzt aktualisiert: *23. März 2020, 10:00 Uhr, [Änderungshistorie](https://github.com/beelbrecht/corona-info-quellen/commits/master)*)
+Diese Seite wird laufend aktualisiert.  
+(zuletzt aktualisiert: *23. März 2020, 10:00 Uhr, [Änderungshistorie](https://github.com/beelbrecht/corona-info-quellen/commits/master)*)
 
 ## Vorwort
 
@@ -66,8 +67,8 @@ Ein Artikel im Wissenschaftsblog von Spektrum.de erläutert sehr anschaulich, wa
 [https://www.infektionsschutz.de/coronavirus/](https://www.infektionsschutz.de/coronavirus/)  
 Die Bundeszentrale für gesundheitliche Aufklärung erläutert effektive Maßnahmen, um sich vor einer Infektion mit dem Coronavirus zu schützen.
 
-#### Coronavirus Simulation (Katapult Magazin)
-[https://corona.katapult-magazin.de/](https://corona.katapult-magazin.de/)  
+#### Warum nur Abstand halten hilft (Bayerischer Rundfunk)
+[https://web.br.de/interaktiv/corona-simulation/](https://web.br.de/interaktiv/corona-simulation/)  
 Eine sehr anschauliche Animation, die erklärt, wie sich "soziale Distanz" (Vermeiden von persönlichen Kontakten) positiv auf die aktuelle Pandemie auswirkt.
 
 #### Sinnhaftigkeit von Nachbarschaftshilfe (Zeit Magazin)
