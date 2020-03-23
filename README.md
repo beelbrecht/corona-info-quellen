@@ -71,6 +71,10 @@ Aktuelle Informationen vom Robert Koch-Institut für die Fachöffentlichkeit. Di
 [https://scilogs.spektrum.de/marlenes-medizinkiste/seife-oder-desinfektionsmittel/](https://scilogs.spektrum.de/marlenes-medizinkiste/seife-oder-desinfektionsmittel/)  
 Ein Artikel im Wissenschaftsblog von Spektrum.de erläutert sehr anschaulich, warum gründliches Händewaschen mit Seife besser ist, als Desinfektionsmittel. Auch Seife zerstört das Coronavirus. Sehr sehenswert ist auch das Video auf der Seite.
 
+#### Coronavirus: Das wissen wir - und das nicht (Quarks.de)
+[https://www.quarks.de/gesundheit/medizin/corona-virus-das-wissen-wir/](https://www.quarks.de/gesundheit/medizin/corona-virus-das-wissen-wir/)  
+Sehr informativer und umfassender Artikel zu Informationen zu den verschiedensten Bereichen rund um das "Coronavirus". Am Ende des Artikels findest du ein sehr umfangreiches Quellen-Verzeichnis.
+
 #### effektiver Infektionsschutz (Bundeszentrale für gesundheitliche Aufklärung)
 [https://www.infektionsschutz.de/coronavirus/](https://www.infektionsschutz.de/coronavirus/)  
 Die Bundeszentrale für gesundheitliche Aufklärung erläutert effektive Maßnahmen, um sich vor einer Infektion mit dem Coronavirus zu schützen.
