@@ -41,6 +41,10 @@ Jeden Werktag erscheint Mittags ein halbstündiger Podcast mit dem Wissenschaftl
 [https://www.sueddeutsche.de/wissen/coronavirus-zahlen-daten-1.4844448](https://www.sueddeutsche.de/wissen/coronavirus-zahlen-daten-1.4844448)  
 Die Grafiken, Diagramme und der Artikel selbst werden laufend aktualisiert (z.T. stündlich). Besonders anschaulich ist die Tabelle mit der "Verdopplungszeit" der bestätigten Fälle. Weiter unten im Artikel ist diese Tabelle mit der "Verdopplungszeit" für die einzelnen Bundesländer zu finden.
 
+#### Aktuelle Lage in Deutschland (Süddeutsche Zeitung)
+[https://www.sueddeutsche.de/panorama/coronavirus-news-deutschland-1.4828033](https://www.sueddeutsche.de/panorama/coronavirus-news-deutschland-1.4828033)  
+Der Artikel wird laufend aktualisiert und fasst die wichtigsten Infos zur aktuellen Lage in Deutschland zusammen.
+
 #### Coronavirus Echtzeit-Karte (Berliner Morgenpost)
 [https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)  
 Eine übersichtliche interaktive Karte mit Fallzahlen, die von der Redaktion der Berliner Morgenpost laufend aktualisiert wird. Die Zahlen sind in der Regel aktueller, als die Zahlen vom Robert Koch-Institut.
