@@ -39,7 +39,7 @@ Jeden Werktag erscheint Mittags ein halbstündiger Podcast mit dem Wissenschaftl
 
 #### Alle Daten zur Pandemie (Süddeutsche Zeitung)
 [https://www.sueddeutsche.de/wissen/coronavirus-zahlen-daten-1.4844448](https://www.sueddeutsche.de/wissen/coronavirus-zahlen-daten-1.4844448)  
-Die Grafiken und Diagramme in dem Artikel werden laufend aktualisiert (z.T. stündlich). Besonders anschaulich ist die Tabelle mit der "Verdopplungszeit" der bestätigten Fälle.
+Die Grafiken, Diagramme und der Artikel selbst werden laufend aktualisiert (z.T. stündlich). Besonders anschaulich ist die Tabelle mit der "Verdopplungszeit" der bestätigten Fälle. Weiter unten im Artikel ist diese Tabelle mit der "Verdopplungszeit" für die einzelnen Bundesländer zu finden.
 
 #### Coronavirus Echtzeit-Karte (Berliner Morgenpost)
 [https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)  
