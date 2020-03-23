@@ -3,7 +3,7 @@
 Transparente, sachliche und aktuelle Informationen, sowie bestmögliche Aufgeklärtheit ist für uns alle aktuell wichtiger denn je. Mit dieser Seite möchte ich meinen Beitrag dazu leisten und relevante Informationsquellen sammeln. Für Anregungen und Ergänzungen per Mail bin ich dankbar!  
 *Benjamin Albrecht (corona@beelbrecht.de)*
 
-Diese Seite wird laufend aktualisiert. (zuletzt aktualisiert: *20. März 2020, 14:00 Uhr*)
+Diese Seite wird laufend aktualisiert. (zuletzt aktualisiert: *23. März 2020, 10:00 Uhr, [Änderungshistorie](https://github.com/beelbrecht/corona-info-quellen/commits/master)*)
 
 ## Vorwort
 
