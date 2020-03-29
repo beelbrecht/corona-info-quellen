@@ -21,6 +21,7 @@ Beachte auch du unbedingt folgende Verhaltensweisen:
 
 - **Anweisungen befolgen**: Befolge die Anweisungen und Empfehlungen der offiziellen Stellen (Regierung, Behörden, Gesundheitsämter, Polizei, Ärzte, etc.).
 - **Zu Hause bleiben**: Bleib zu Hause und vermeide JEDEN Kontakt mit anderen Menschen. Dadurch stecken sich weniger Menschen gleichzeitig mit dem "Coronavirus" an und die Krankenhäuser haben mehr Möglichkeiten, die schwerkranken Menschen zu versorgen.
+- **Mund-Nase-Maske tragen**: Eine Behelfsmaske schützt nicht dich, aber die anderen! Du kannst andere bereits anstecken, bevor du überhaupt wissen kannst, dass du selber mit dem "Coronavirus" infiziert bist. Eine Maske kann daher andere vor der Infizierung schützen. Eine einfache Anleitung zum selber "basteln" findest auf der [Webseite der Stadt Essen](https://www.essen.de/gesundheit/coronavirus_6.de.html) und auf [maskeauf.de](https://maskeauf.de).
 - **Mindestabstand einhalten**: Wenn du doch ausnahmsweise anderen Menschen begegnest, halte mindestens 1,5 - 2 Meter Abstand.
 - **Händewaschen**: Wasche dir oft und gründlich die Hände mit Seife. Die Seife zerstört die SARS-CoV-2 Viren und kann sogar effektiver sein, als Desinfektionsmittel (Infos dazu weiter unten).
 - **Keine Hamsterkäufe**: Tätige keine Hamsterkäufe. Laut offiziellen Stellen (z.B. Bundesregierung) ist die Versorgung der Supermärkte gesichert. Hamsterkäufe und dadurch bedingte leere Regale verbreiten unnötig Angst und Sorge.
