@@ -4,7 +4,7 @@ Transparente, sachliche und aktuelle Informationen, sowie bestmögliche Aufgekl�
 *Benjamin Albrecht (corona@beelbrecht.de)*
 
 Diese Seite wird laufend aktualisiert.  
-(zuletzt aktualisiert: *23. März 2020, 11:00 Uhr, [Änderungshistorie](https://github.com/beelbrecht/corona-info-quellen/commits/master)*)
+(zuletzt aktualisiert: *29. März 2020, 19:45 Uhr, [Änderungshistorie](CHANGELOG)*)
 
 #### Inhalt
 
