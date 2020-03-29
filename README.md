@@ -4,7 +4,7 @@ Transparente, sachliche und aktuelle Informationen, sowie bestmögliche Aufgekl�
 *Benjamin Albrecht (corona@beelbrecht.de)*
 
 Diese Seite wird laufend aktualisiert.  
-(zuletzt aktualisiert: *29. März 2020, 19:45 Uhr, [Änderungshistorie](CHANGELOG)*)
+(zuletzt aktualisiert: *29. März 2020, 20:00 Uhr, [Änderungshistorie](CHANGELOG)*)
 
 #### Inhalt
 
