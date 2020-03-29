@@ -1,3 +1,4 @@
+- **29.03.2020**: [TASK] Änderungshistorie übersichtlicher gestaltet
 - **23.03.2020**: [TASK] Inhaltsverzeichnis hinzugefügt
 - **23.03.2020**: [INHALT] Link zu heise.de Artikel "Der lange Weg der Fallzahlen zum RKI" hinzugefügt
 - **23.03.2020**: [TASK] Reihenfolge der Links angepasst
