@@ -1,21 +1,21 @@
-- 2020.03.23 (11:07 Uhr):  [TASK] Inhaltsverzeichnis hinzugefügt
-- 2020.03.23 (11:02 Uhr):  [INHALT] Link zu heise.de Artikel "Der lange Weg der Fallzahlen zum RKI" hinzugefügt
-- 2020.03.23 (10:47 Uhr):  [TASK] Reihenfolge der Links angepasst
-- 2020.03.23 (10:46 Uhr):  [INHALT] Link zum Quarks.de Artikel "Das wissen wir - und das nicht" hinzugefügt
-- 2020.03.23 (10:40 Uhr):  [INHALT] Link zur Quarks.de Artikel "Dauer der Corona-Pandemie" ergänzt
-- 2020.03.23 (10:30 Uhr):  [INHALT] Link zur Themen-/Übersichersichtsseite der Süddeutschen Zeitung eingefügt
-- 2020.03.23 (10:29 Uhr):  [INHALT] Link zur "Aktuellen Lage in Deutschland" (Süddeutsche Zeitung) hinzugefügt
-- 2020.03.23 (10:23 Uhr):  [INHALT] Beschreibung zum Link "Alle Daten zur Pandemie" der Süddeutschen Zeitung angepasst
-- 2020.03.23 (10:13 Uhr):  [INHALT] Link zur Corona-Simulation gegen bessere Animation des Bayerischen Rundfunks ausgetauscht
-- 2020.03.23 (10:07 Uhr):  [INHALT] Verlinkung zur Änderungshistorie hinzugefügt
-- 2020.03.20 (21:05 Uhr):  [CONTENT] Inhalte ergänzt
-- 2020.03.20 (18:31 Uhr):  [CONTENT] CovApp hinzugefügt
-- 2020.03.20 (17:55 Uhr):  [CONTENT] Beschreibungen ergänzt.
-- 2020.03.20 (17:15 Uhr):  [TASK] Formulierungsänderungen und Überschriftenstruktur angepasst
-- 2020.03.20 (16:21 Uhr):  [CONTENT] diverse Links hinzugefügt
-- 2020.03.20 (14:45 Uhr):  [TASK] Formatierung angepasst
-- 2020.03.20 (14:42 Uhr):  [CONTENT] Die ersten Informationen hinzugefügt.
-- 2020.03.20 (13:52 Uhr):  [TASK] add .editorconfig
-- 2020.03.19 (20:55 Uhr):  Update README.md
-- 2020.03.19 (20:54 Uhr):  Set theme jekyll-theme-cayman
-- 2020.03.19 (20:52 Uhr):  Initial commit
+- **23.03.2020**: [TASK] Inhaltsverzeichnis hinzugefügt
+- **23.03.2020**: [INHALT] Link zu heise.de Artikel "Der lange Weg der Fallzahlen zum RKI" hinzugefügt
+- **23.03.2020**: [TASK] Reihenfolge der Links angepasst
+- **23.03.2020**: [INHALT] Link zum Quarks.de Artikel "Das wissen wir - und das nicht" hinzugefügt
+- **23.03.2020**: [INHALT] Link zur Quarks.de Artikel "Dauer der Corona-Pandemie" ergänzt
+- **23.03.2020**: [INHALT] Link zur Themen-/Übersichersichtsseite der Süddeutschen Zeitung eingefügt
+- **23.03.2020**: [INHALT] Link zur "Aktuellen Lage in Deutschland" (Süddeutsche Zeitung) hinzugefügt
+- **23.03.2020**: [INHALT] Beschreibung zum Link "Alle Daten zur Pandemie" der Süddeutschen Zeitung angepasst
+- **23.03.2020**: [INHALT] Link zur Corona-Simulation gegen bessere Animation des Bayerischen Rundfunks ausgetauscht
+- **23.03.2020**: [INHALT] Verlinkung zur Änderungshistorie hinzugefügt
+- **20.03.2020**: [CONTENT] Inhalte ergänzt
+- **20.03.2020**: [CONTENT] CovApp hinzugefügt
+- **20.03.2020**: [CONTENT] Beschreibungen ergänzt.
+- **20.03.2020**: [TASK] Formulierungsänderungen und Überschriftenstruktur angepasst
+- **20.03.2020**: [CONTENT] diverse Links hinzugefügt
+- **20.03.2020**: [TASK] Formatierung angepasst
+- **20.03.2020**: [CONTENT] Die ersten Informationen hinzugefügt.
+- **20.03.2020**: [TASK] add .editorconfig
+- **19.03.2020**: Update README.md
+- **19.03.2020**: Set theme jekyll-theme-cayman
+- **19.03.2020**: Initial commit
